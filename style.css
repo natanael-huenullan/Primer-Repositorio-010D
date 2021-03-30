@@ -1,20 +1,29 @@
 p{
-    font-size: 25px}
+    font-size: 20px;
+    margin-left: 10px;
+    }
 
 
 
 h1{
-    font-size: 35px;
+    font-size: 30px;
     margin-left: 300px;
     margin-right: 300px;
+    margin-bottom: 70px;
     text-decoration: underline;
 }
 
 
 
 h2{
-    font-size: 32px;}
+    font-size: 22px;
+    margin-left: 10px;
+}
 
+h4{
+    font-size: 20px;
+    margin-left: 10px;
+}
 
     
 q{
@@ -25,3 +34,14 @@ p, h2, h1,q{
         font-family: sans-serif;
 }
 
+.Titulo{
+
+    margin-left: 400px;
+}
+
+li{
+    margin-top: 10px;
+}
+ul{
+    margin-bottom: 70px;
+}

@@ -65,4 +65,7 @@ div{
     margin-bottom: 1000px;
 }
 
+p, h2, h1,q{
+    font-family: sans-serif;
+}
 
