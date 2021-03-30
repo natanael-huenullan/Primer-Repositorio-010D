@@ -1,0 +1,27 @@
+p{
+    font-size: 25px}
+
+
+
+h1{
+    font-size: 35px;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-decoration: underline;
+}
+
+
+
+h2{
+    font-size: 32px;}
+
+
+    
+q{
+    font-size: 20px;}
+
+
+p, h2, h1,q{
+        font-family: sans-serif;
+}
+
