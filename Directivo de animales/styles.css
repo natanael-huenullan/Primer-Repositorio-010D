@@ -1,4 +1,4 @@
-p{
+.R, .S, .F{
     font-size: 25px;
     text-align:left;
     padding: 60px;
@@ -15,8 +15,8 @@ p, h2, h1,q{
 }
 
 h1{
-    font-size: 40px;
-    margin-left: 500px;
+    font-size: 38px;
+    margin-left: 600px;
     margin-right: 500px;
     margin-bottom: 100px;
     text-decoration: underline;
@@ -51,21 +51,22 @@ img{
 
 table{
     margin-bottom: 1000px;
-    margin-left: 50px;
-    margin-top: 100px;
+    margin-top: 0px;
     
 }
 
 .RA , .SA , .FI {
-    font-size: 35px;
+    font-size: 30px;
     margin-right: 50px;
 }
 
 div{
     margin-bottom: 1000px;
+    margin-left: 10px;
 }
 
-p, h2, h1,q{
-    font-family: sans-serif;
-}
-
+nav p{
+    font-size: 28px;
+    text-align-last: left;
+    margin-left: 10px;
+}   

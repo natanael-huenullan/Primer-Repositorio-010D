@@ -20,18 +20,14 @@ h2{
     margin-left: 10px;
 }
 
-h4{
-    font-size: 20px;
-    margin-left: 10px;
-}
-
     
 q{
     font-size: 20px;}
 
 
 p, h2, h1,q{
-        font-family: sans-serif;
+    
+    font-family: sans-serif;
 }
 
 .Titulo{
@@ -45,3 +41,10 @@ li{
 ul{
     margin-bottom: 70px;
 }
+
+nav p{
+    font-size: 18px;
+    text-align-last: left;
+}
+
+
