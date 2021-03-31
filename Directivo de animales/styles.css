@@ -1,6 +1,5 @@
 .R, .S, .F{
     font-size: 25px;
-    text-align:left;
     padding: 60px;
     margin-right: 50px;
     margin-left: 500px;
@@ -25,7 +24,7 @@ h1{
 
 
 h2{
-    font-size: 35px;
+    font-size: 36px;
     margin-left: 50px;
 }
 
@@ -62,11 +61,10 @@ table{
 
 div{
     margin-bottom: 1000px;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 nav p{
     font-size: 28px;
-    text-align-last: left;
-    margin-left: 10px;
+    text-align: right;
 }   
