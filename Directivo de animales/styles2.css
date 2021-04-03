@@ -1,0 +1,20 @@
+#NavBarPerros{
+    background-color: cyan;
+    padding: 20px;
+}
+
+#NavBarGatos{
+    background-color: cyan;
+    padding: 20px;
+}
+
+#TablaPerros{
+    background-color:greenyellow;
+    padding-bottom: 500px;
+    padding-top: 10px;
+}
+#TablaGatos{
+    background-color: greenyellow;
+    padding-bottom: 500px;
+    padding-top: 10px;
+}

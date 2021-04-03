@@ -1,50 +1,60 @@
 p{
     font-size: 20px;
-    margin-left: 10px;
+    margin-left: 30px;
     }
 
 
 
 h1{
     font-size: 30px;
-    margin-left: 300px;
-    margin-right: 300px;
-    margin-bottom: 70px;
+    margin-bottom: 80px;
+    margin-top: 20px;
     text-decoration: underline;
+    text-align: center;
 }
 
 
 
 h2{
     font-size: 22px;
-    margin-left: 10px;
+    margin-left: 30px;
 }
 
-    
-q{
-    font-size: 20px;}
-
+h4{
+    margin-left: 30px;
+}
 
 p, h2, h1,q{
     
     font-family: sans-serif;
 }
 
-.Titulo{
-
-    margin-left: 400px;
-}
 
 li{
     margin-top: 10px;
+    margin-left: 20px;
 }
 ul{
     margin-bottom: 70px;
+    margin-left: 20px;
 }
 
-nav p{
-    font-size: 18px;
-    text-align: left;
+img{
+    margin-left: 30px;
+}
+
+nav{
+    text-align:right;
+    margin: 0px;
+    padding: 0px;
 }
 
 
+.nombrepagina{
+    text-align: left;  /* aqui queria alinear la barra de navegacion con el nombre de la asociacion de perros*/
+    float: left;
+}
+
+.espacio{
+    padding: 20px;
+}
