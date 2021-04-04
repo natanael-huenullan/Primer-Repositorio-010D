@@ -6,9 +6,9 @@ p{
 
 
 h1{
-    font-size: 30px;
-    margin-bottom: 80px;
-    margin-top: 20px;
+    font-size: 40px;
+    padding-top: 40px;
+    padding-bottom: 60px;
     text-decoration: underline;
     text-align: center;
 }
@@ -41,6 +41,7 @@ ul{
 
 img{
     margin-left: 30px;
+    border: solid;
 }
 
 nav{
@@ -55,6 +56,9 @@ nav{
     float: left;
 }
 
-.espacio{
-    padding: 20px;
+.margennav{
+
+    margin: 0px;
+    padding :15px;
+
 }

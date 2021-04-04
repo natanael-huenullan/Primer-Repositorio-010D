@@ -9,12 +9,51 @@
 }
 
 #TablaPerros{
-    background-color:greenyellow;
+    background-color: rgba(172, 255, 47, 0.678);
     padding-bottom: 500px;
     padding-top: 10px;
 }
 #TablaGatos{
-    background-color: greenyellow;
+    background-color: rgba(172, 255, 47, 0.678);
     padding-bottom: 500px;
     padding-top: 10px;
+}
+
+#PERRO1{
+    background-color: darkseagreen;
+    padding-bottom: 700px;
+    padding-top: 10px;
+}
+
+#PERRO2{
+    background-color: rgb(163, 204, 93);
+    padding-bottom: 700px;
+    padding-top: 10px;
+}
+
+#PERRO3{
+    background-color: rgb(136, 216, 169);
+    padding-bottom: 700px;
+    padding-top: 10px;
+}
+
+#GATO1{
+    background-color: darkseagreen;
+    padding-top: 10px;
+    padding-bottom: 700px;
+    
+}
+
+#GATO2{
+    background-color: rgb(163, 204, 93);
+    padding-top: 10px;
+    padding-bottom: 700px;
+    
+}
+
+#GATO3{
+    background-color: rgb(136, 216, 169);
+    padding-top: 10px;
+    padding-bottom: 700px;
+    
 }
